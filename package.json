@@ -1,0 +1,35 @@
+{
+  "name": "react-neat-form",
+  "version": "0.0.1",
+  "description": "fast, optimized form validation library for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amirhoseinZare/react-neat-form.git"
+  },
+  "keywords": [
+    "form",
+    "form",
+    "validation",
+    "react",
+    "react",
+    "hooks",
+    "react",
+    "form",
+    "validation",
+    "form",
+    "handler",
+    "react",
+    "form",
+    "handler"
+  ],
+  "author": "amirhosein zare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amirhoseinZare/react-neat-form/issues"
+  },
+  "homepage": "https://github.com/amirhoseinZare/react-neat-form#readme"
+}
